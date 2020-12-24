@@ -4,7 +4,7 @@
   "description": "Projeto Teste",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index"
   },
   "author": "José Ribeiro da Silva",
   "license": "ISC",
